@@ -39,6 +39,16 @@ sign-avatar-comfyui/
 4. 노드 연결 후 실행하여 이미지 또는 영상 생성
 
 ## 📦 결과물
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/2060e639-c1df-4034-a142-d911d99ff926" width="50%" />
+    <img src="https://github.com/user-attachments/assets/718a9dbd-8358-4a6e-95d3-fdebe53f9680" width="50%" />
+</p>
+
+
+
+
+
+
 
 
 
